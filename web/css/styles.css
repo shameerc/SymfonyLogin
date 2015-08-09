@@ -1,0 +1,32 @@
+footer.page-footer .footer-copyright {
+    background: #263238;
+}
+
+footer.page-footer{
+    background: #e5e5e5;
+}
+.white-head {
+    color: #fff;
+    text-align: center;
+}
+.register .btn-large{
+    vertical-align: top;
+}
+.register .row {
+    margin-bottom: 0;
+}
+.register .input-field input {
+    margin-bottom: 0;
+}
+.register .row ul{
+    padding: 0 .75rem;
+    margin: 0;
+}
+.register ul li {
+    float: left;
+    width: 100%;
+    color: red;
+}
+.button-wrap {
+    padding-top: 10px;
+}
