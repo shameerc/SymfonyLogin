@@ -9,10 +9,12 @@ footer.page-footer{
     color: #fff;
     text-align: center;
 }
-.register .btn-large{
+.register .btn-large, 
+.login-form .btn-large{
     vertical-align: top;
 }
-.register .row {
+.register .row,
+.login-form .row {
     margin-bottom: 0;
 }
 .register .input-field input {
@@ -29,4 +31,12 @@ footer.page-footer{
 }
 .button-wrap {
     padding-top: 10px;
+}
+.no-margin {
+    margin: 0;
+}
+.reset-wrap {
+    float: right;
+    padding: 0 .75rem;
+    margin-top: 15px;
 }
